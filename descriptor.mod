@@ -6,3 +6,4 @@ tags={
 name="zemodv1"
 supported_version="1.16.1"
 remote_file_id="3446418360"
+replace_path = "gfx/loadingsscreens"
